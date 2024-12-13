@@ -1,4 +1,4 @@
-<h1 style="display: flex; flex-direction: row; align-items: center; justify-content: center;"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Bien le bonjour, I'm Anshika! 👋</h1>
+<h1 style="display: flex; flex-direction: row; align-items: center; justify-content: center;"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Bien le bonjour, I'm Anshika! 👋</h1>
 
 I'm a passionate web developer, designer, and aspiring consultant with a strong interest in creating innovative and user-friendly digital experiences. I love working on diverse projects ranging from full-stack web development to design solutions and startup consulting.
 

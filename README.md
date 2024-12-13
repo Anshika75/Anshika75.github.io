@@ -5,23 +5,22 @@ Welcome to my GitHub profile! I'm a passionate web developer, designer, and aspi
 ## 🚀 About Me
 
 - **Name**: Anshika
-- **Location**: [Your Location] (Optional)
 - **Currently Learning**: Advanced Java, Product Management, Business Strategy
-- **Hobbies**: Gaming, Design, Problem Solving, Learning New Technologies
+- **Hobbies**: Designing, Content Writing, Listening Music, Learning New Technologies
 
 I'm always exploring new tools, languages, and frameworks to expand my skillset. I believe in continuous learning and always aim to stay updated with the latest trends in technology.
 
 ## 🛠️ My Skillset
 
 ### **Web Development**:
-- **Frontend**: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express.js, REST APIs
+- **Frontend**: HTML, CSS, JavaScript, jQuery, React.js, Next.js, Tailwind CSS
+- **Backend**: Java, Node.js, Spring, REST APIs
 - **Version Control**: Git, GitHub
 - **Databases**: MongoDB, MySQL, Firebase
 - **Deployment**: Netlify, GitHub Pages, Vercel
 
 ### **Design**:
-- **Tools**: Figma, Adobe XD, Photoshop
+- **Tools**: Figma, Canva, PhotoPea
 - **Skills**: Web Design, UI/UX, Responsive Design, Prototyping, Wireframing
 
 ### **Consulting**:
@@ -37,16 +36,15 @@ I'm always exploring new tools, languages, and frameworks to expand my skillset.
 
 Here are some of my key projects:
 
-- **[Pawtopia](#)**: A virtual pet simulator with various features like activities, story mode, and resource management.
-- **[Hexora](#)**: A design and development agency providing solutions across domains like tech, designing, and consulting.
-- **[Portfolio Website](#)**: A showcase of my personal web development and design projects.
+- **[Pawtopia](https://github.com/Anshika75/PawTopia)**: A virtual pet simulator with various features like activities, story mode, and resource management.
+- **[Epic-eats](https://github.com/Anshika75/Epic-Eats)**: A dynamic food recommendation app offering personalized meal suggestions based on dietary preferences and nutritional needs.
+- **[WebMindz](https://github.com/Anshika75/WebMindz)**: In the realm where sight falters, the visually impaired encounter a myriad of challenges due to a scarcity of tailored tools. This groundbreaking project endeavors to reshape their digital landscape by crafting an AI chatbot infused with Speech-to-Text and Text-to-Speech capabilities.
 
 Feel free to explore my repositories and see how I approach coding and problem-solving!
 
 ## 🤝 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Email](mailto:your-email@example.com)
-- [Website](https://yourwebsite.com) (If you have one)
-
+- [LinkedIn](https://www.linkedin.com/in/Anshika75)
+- [Website]([https://yourwebsite.com](https://anshika-web-artistry.netlify.app/))
+- 
 Feel free to reach out if you'd like to collaborate on a project, ask questions, or just chat about tech!

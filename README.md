@@ -45,6 +45,6 @@ Feel free to explore my repositories and see how I approach coding and problem-s
 ## 🤝 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/Anshika75)
-- [Website]([https://yourwebsite.com](https://anshika-web-artistry.netlify.app/))
-- 
+- [Website](https://anshika-web-artistry.netlify.app/)
+  
 Feel free to reach out if you'd like to collaborate on a project, ask questions, or just chat about tech!
